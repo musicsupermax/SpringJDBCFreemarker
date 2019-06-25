@@ -1,0 +1,6 @@
+com\springcrud\App.class
+com\springcrud\config\SpringConfig.class
+com\springcrud\model\User.class
+com\springcrud\controller\UserController.class
+com\springcrud\dao\UserDAO.class
+com\springcrud\service\UserService.class
